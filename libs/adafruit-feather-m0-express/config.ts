@@ -10,13 +10,8 @@ namespace config {
 
     export const PIN_D0 = DAL.PA11;
     export const PIN_D1 = DAL.PA10;
-    export const PIN_D2 = DAL.PA14;
-    export const PIN_D3 = DAL.PA09;
-    export const PIN_D4 = DAL.PA08;
     export const PIN_D5 = DAL.PA15;
     export const PIN_D6 = DAL.PA20;
-    export const PIN_D7 = DAL.PA21;
-    export const PIN_D8 = DAL.PA06;
     export const PIN_D9 = DAL.PA07;
     export const PIN_D10 = DAL.PA18;
     export const PIN_D11 = DAL.PA16;
@@ -40,21 +35,3 @@ namespace config {
     export const PIN_FLASH_CS = DAL.PA13;
 }
 
-/*
-// M0
-namespace userconfig {
-    export const PIN_D2 = DAL.PA08;
-    export const PIN_D4 = DAL.PA14;
-    export const PIN_RXLED = DAL.PB03;
-    export const PIN_NEOPIXEL = -1;    
-    export const PIN_FLASH_SCK = -1;
-    export const NUM_NEOPIXELS = 0;
-}
-// Zero
-namespace userconfig {
-    export const PIN_RXLED = DAL.PB03;
-    export const PIN_NEOPIXEL = -1;    
-    export const PIN_FLASH_SCK = -1;
-    export const NUM_NEOPIXELS = 0;
-}
-*/
