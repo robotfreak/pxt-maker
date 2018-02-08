@@ -1,4 +1,4 @@
 # adafruit
 
-The adafruit library.
+The adafruit library for Adafruit Feather M0 Express.
 
