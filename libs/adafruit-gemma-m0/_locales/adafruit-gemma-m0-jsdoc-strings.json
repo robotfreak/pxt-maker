@@ -3,9 +3,7 @@
   "input.buttonD0": "Button connecting D0 to GND.",
   "input.buttonD1": "Button connecting D1 to GND.",
   "input.buttonD2": "Button connecting D2 to GND.",
-  "input.buttonD3": "Button connecting D3 to GND.",
-  "input.buttonD4": "Button connecting D4 to GND.",
+  "input.touchD0": "Capacitive pin D0",
   "input.touchD1": "Capacitive pin D1",
-  "input.touchD3": "Capacitive pin D3",
-  "input.touchD4": "Capacitive pin D4"
+  "input.touchD2": "Capacitive pin D4"
 }
